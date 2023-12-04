@@ -1,8 +1,8 @@
-[![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/54b6c068097599.5b50bca476b9b.gif)]
+![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/54b6c068097599.5b50bca476b9b.gif)
 
 <h1 align="center">Hi 👋, I'm Ghritanchi</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/35d4d034938099.56e31c3d864df.gif">
+<img align="right" alt="coding" width="200" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/35d4d034938099.56e31c3d864df.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ghritanchi&label=Profile%20views&color=0e75b6&style=flat" alt="ghritanchi" /> </p>
 
